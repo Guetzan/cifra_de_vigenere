@@ -2,7 +2,7 @@
 # - implementar função de decifrar
 # - possibilitar a encriptação de mais caracteres além de A-Z (provavelmente utilizando UNICODE)
 # - limitar tamanho do texto a ser cifrado/decifrado em 128 caracteres [já funcionando para a função cifrar]
-# - validar se os caracteres passados no texto estão dentro dos permitidios
+# - validar se os caracteres passados no texto estão dentro dos permitidos
 # - possibilitar o usuário realizar quantas operações desejar [incompleta]
 # - ...
 
